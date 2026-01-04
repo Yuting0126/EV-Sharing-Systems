@@ -172,30 +172,10 @@ class Config:
 
 ---
 
-## 📚 Citation
-
-```bibtex
-@article{pang2025evsharing,
-  title={Breaking the Operational Trilemma: A Bilevel Integrated Framework 
-         for Electric Vehicle Sharing Systems via Logic-Based Benders Decomposition},
-  author={Pang, Yuting and Sun, Yuze and Xu, Feifei and Pu, Bingsheng},
-  journal={arXiv preprint},
-  year={2025}
-}
-```
-
----
-
 ## 📝 License
 
-MIT License - see [LICENSE](LICENSE) for details.
+ see [LICENSE](LICENSE) for details.
 
-## 👥 Authors
-
-- **Pang Yuting** - Tsinghua University
-- **Sun Yuze** - Tsinghua University
-- **Xu Feifei** - Tsinghua University
-- **Pu Bingsheng** - Tsinghua University
 
 ---
 
