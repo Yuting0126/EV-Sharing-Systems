@@ -170,19 +170,6 @@ class Config:
     relocation_cost = 5.0       # Relocation cost ($)
 ```
 
----
-
-## 📚 Citation
-
-```bibtex
-@article{pang2025evsharing,
-  title={Breaking the Operational Trilemma: A Bilevel Integrated Framework 
-         for Electric Vehicle Sharing Systems via Logic-Based Benders Decomposition},
-  author={Pang, Yuting and Sun, Yuze and Xu, Feifei and Pu, Bingsheng},
-  journal={arXiv preprint},
-  year={2025}
-}
-```
 
 ---
 
