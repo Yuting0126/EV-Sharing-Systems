@@ -1,0 +1,12 @@
+{
+  "miqp_profit": 860479,
+  "des_baseline": {
+    "soc_threshold": 80,
+    "charging_power_kw": 7,
+    "avg_profit": 1187464.4999999988,
+    "std_profit": 9420.294784917813,
+    "avg_lost_demand": 6734.8,
+    "impl_gap_pct": -38.00040442590683
+  },
+  "note": "Current DES uses 80% SoC trigger threshold and 7kW charging power. These are sensible defaults for Level-2 AC charging. The implementation gap of ~-38% is primarily driven by stochastic demand arrivals rather than charging policy parameters."
+}

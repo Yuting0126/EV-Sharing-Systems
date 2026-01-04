@@ -1,0 +1,8 @@
+{
+  "data_file": "data/processed/od_matrix_week.npy",
+  "num_stations": 10,
+  "vehicles_per_station": 800,
+  "total_vehicles": 8000,
+  "num_days": 7,
+  "state_policy": "continuation"
+}

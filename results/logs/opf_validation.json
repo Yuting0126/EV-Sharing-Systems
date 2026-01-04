@@ -1,0 +1,32 @@
+[
+  {
+    "cap_factor": 1.0,
+    "miqp_profit": 860478.5790123602,
+    "total_charge_kwh": 182354.61106049907,
+    "avg_charge_per_period_kw": 7598.108794187461,
+    "grid_limit_kw": 16000.0,
+    "substation_limit_kw": 20000,
+    "per_zone_charge_kw": 759.8108794187461,
+    "transformer_limit_kw": 2000,
+    "agg_load_feasible": true,
+    "zone_load_feasible": true,
+    "lmp_stable": true,
+    "voltage_feasible": true,
+    "opf_feasible": true
+  },
+  {
+    "cap_factor": 20.0,
+    "miqp_profit": 864286.0473133118,
+    "total_charge_kwh": 182431.99924550692,
+    "avg_charge_per_period_kw": 7601.333301896121,
+    "grid_limit_kw": 320000.0,
+    "substation_limit_kw": 20000,
+    "per_zone_charge_kw": 760.1333301896121,
+    "transformer_limit_kw": 2000,
+    "agg_load_feasible": true,
+    "zone_load_feasible": true,
+    "lmp_stable": true,
+    "voltage_feasible": true,
+    "opf_feasible": true
+  }
+]

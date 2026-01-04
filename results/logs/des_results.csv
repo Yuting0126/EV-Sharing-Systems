@@ -1,0 +1,3 @@
+Scenario,Total_Trips,Lost_Demand,Service_Rate,Revenue,Charging_Cost,Relocation_Cost,Net_Profit
+With_Relocation,940819,105560,89.9%,11287097,68125.73,4250,11214721.27
+Without_Relocation,937449,108823,89.6%,11251708,67877.33,0,11183830.67

@@ -1,0 +1,87 @@
+{
+  "baseline": {
+    "profit": 2456963.1815744014,
+    "service_rate": 64.99999999999963,
+    "total_charged_kwh": 192165.05457527627,
+    "peak_charge_kw": 55999.99999987742,
+    "feasible": true
+  },
+  "b_sensitivity": [
+    {
+      "b": 1.0,
+      "profit": 5125269.594865806,
+      "service_rate": 64.99999999999987,
+      "total_charged_kwh": 197035.38527812355,
+      "peak_charge_kw": 55999.999997989355,
+      "feasible": true
+    },
+    {
+      "b": 2.0,
+      "profit": 2456963.1815744014,
+      "service_rate": 64.99999999999963,
+      "total_charged_kwh": 192165.05457527627,
+      "peak_charge_kw": 55999.99999987742,
+      "feasible": true
+    },
+    {
+      "b": 4.0,
+      "profit": 1128415.8567799106,
+      "service_rate": 65.0000000000002,
+      "total_charged_kwh": 185131.3116679004,
+      "peak_charge_kw": 55999.99999903279,
+      "feasible": true
+    }
+  ],
+  "gamma_sensitivity": [
+    {
+      "gamma": 2.5,
+      "profit": 2460223.7144049266,
+      "service_rate": 65.00000000000016,
+      "total_charged_kwh": 193237.04213040698,
+      "peak_charge_kw": 55999.99999799818,
+      "feasible": true
+    },
+    {
+      "gamma": 5.0,
+      "profit": 2456963.1815744014,
+      "service_rate": 64.99999999999963,
+      "total_charged_kwh": 192165.05457527627,
+      "peak_charge_kw": 55999.99999987742,
+      "feasible": true
+    },
+    {
+      "gamma": 10.0,
+      "profit": 2453371.4333245684,
+      "service_rate": 65.00000000000037,
+      "total_charged_kwh": 190626.48127184276,
+      "peak_charge_kw": 55999.999992407174,
+      "feasible": true
+    }
+  ],
+  "capacity_sensitivity": [
+    {
+      "cap_factor": 0.5,
+      "profit": 2455631.390795331,
+      "service_rate": 65.00000000000016,
+      "total_charged_kwh": 192124.6982239859,
+      "peak_charge_kw": 27999.999999909654,
+      "feasible": true
+    },
+    {
+      "cap_factor": 1.0,
+      "profit": 2456963.1815744014,
+      "service_rate": 64.99999999999963,
+      "total_charged_kwh": 192165.05457527627,
+      "peak_charge_kw": 55999.99999987742,
+      "feasible": true
+    },
+    {
+      "cap_factor": 2.0,
+      "profit": 2457615.674787727,
+      "service_rate": 65.00000000000014,
+      "total_charged_kwh": 192192.81877352353,
+      "peak_charge_kw": 103971.31310383783,
+      "feasible": true
+    }
+  ]
+}
