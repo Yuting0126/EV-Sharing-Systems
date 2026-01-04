@@ -188,14 +188,8 @@ class Config:
 
 ## 📝 License
 
-MIT License - see [LICENSE](LICENSE) for details.
+see [LICENSE](LICENSE) for details.
 
-## 👥 Authors
-
-- **Pang Yuting** - Tsinghua University
-- **Sun Yuze** - Tsinghua University
-- **Xu Feifei** - Tsinghua University
-- **Pu Bingsheng** - Tsinghua University
 
 ---
 
